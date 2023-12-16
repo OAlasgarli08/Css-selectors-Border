@@ -1,0 +1,110 @@
+*{
+    background-color: rgb(33, 73, 65);
+}
+
+header{
+    background-color: darkcyan;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 5px;
+    height: 150px;
+    align-self: center;
+}
+
+.siteTitle{
+    color: white;
+    margin-left: 20%;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-bottom: -20px;
+    text-align: justify;
+    background-color: darkcyan;
+}
+
+.siteSlogan{
+    color: white;
+    margin-left: 20%;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: larger;
+    background-color: darkcyan;   
+}
+
+.up ul{
+    background-color: rgb(44, 58, 63);
+    margin-left: 20%;
+    margin-right: 20%;
+    
+
+}
+
+.up li{
+    background-color: rgb(44, 58, 63);
+    margin-left: 20%;
+    margin-right: 20%;
+    display: flex;
+    display: table-cell;
+    padding-left: 120px;
+    height: 70px;
+    margin-top: 100px;
+
+}
+
+.up ul li a{
+    background-color: rgb(44, 58, 63);
+    text-decoration: none;
+    color: white;
+    
+}
+
+.centreLeft a{
+    color: white;
+}
+
+.centreLeft{
+    color: white;
+    margin-left: 20%;
+    display: inline-block;
+    font-family: sans-serif;
+}
+
+.centreCentre{
+    color: white;
+    margin-left: 30%;
+    margin-top: -100%;
+    margin-right: 20%;
+    display: inline-block;
+    font-family: sans-serif;
+}
+
+.bottomLeft{
+    color: white;
+    margin-top: 4%;
+    margin-left: 20%;
+    margin-right: 70%;
+    font-family: sans-serif;
+    display: block;
+
+}
+
+.bottomMiddle{
+    color: white;
+    margin-top: 4%;
+    margin-left: 20%;
+    margin-right: 70%;
+    font-family: sans-serif;
+    display: inline-block;
+}
+
+button{
+    background-color: gray;
+}
+
+.bottomRight{
+    color: white;
+    margin-left: 20%;
+    margin-right: 70%;
+    font-family: sans-serif;
+    display: inline-block;
+
+}
+
+
